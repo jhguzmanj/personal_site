@@ -40,13 +40,14 @@ h3{
 .pro{
   text-decoration: underline;
 }
-.bottom-cloud{
+.bottom-cloud {
   position: absolute;
-  left: 400px;
-  bottom: 300px;
+  left: 20%;
+  bottom: 50%;
 }
-.top-cloud{
+
+.top-cloud {
   position: absolute;
-  right: 400px;
-  top: 50px;
+  right: 20%;
+  top: 10%;
 }
