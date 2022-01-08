@@ -85,12 +85,14 @@ a:hover {
   position: absolute;
   left: 10%;
   bottom: 45%;
+  width: auto;
 }
 
 .top-cloud {
   position: absolute;
   right: 20%;
   top: 10%;
+  width: auto;
 }
 
 .code-img {
@@ -108,6 +110,7 @@ a:hover {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+  font-size: medium;
 }
 
 .copyright {
